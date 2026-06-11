@@ -1,4 +1,4 @@
-# eds-232-kaggle-competition
+# 2026 EDS 232 Kaggle Competition (Team coralWeavers)
 This repository contains all relevant code and documents for the 2026 EDS 232 Kaggle Competition. Please refer to the Kaggle Competition homepage for additional information on competition rules and dataset access.
 
 This repository is maintained by Vedika Shirtekar, Melannie Moreno Rolon, and Ixel Medrano.
